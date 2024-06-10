@@ -2,6 +2,7 @@
 ## Overview
 This Power BI report provides comprehensive insights into the operations, sales, and performance of the pizza shop. It is designed for business stakeholders to monitor key metrics and make data-driven decisions.
 ## Structure and Contents
+![Screenshot (3)](https://github.com/Pratikshadalavi123/Power_BI_Project/assets/171336212/b2291709-b9cd-499d-91f9-2d0eed8346f9)
 ### Dashboard Pages
 1.	Sales Overview
 o	Metrics: Total sales, daily sales, average order value.
